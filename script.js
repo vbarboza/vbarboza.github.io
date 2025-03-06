@@ -1,10 +1,10 @@
 document.addEventListener('DOMContentLoaded', function() {
     const taglines = [
+      "Software gardener pruning branches since 2010.",
+      "Best barista in town according to my wife.",
+      "Analog synthesizer enthusiast playing bleeps and bloops.",
+      "Shitty 35mm street photographer wannabe.",
       "Cat person.",
-      "Software gardener.",
-      "My wife's favorite barista.",
-      "35mm street photographer.",
-      "Analog synthesizer enthusiast.",
       "Sometimes I code.",
       "Documentation writer.",
     ];
