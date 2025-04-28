@@ -84,6 +84,10 @@ article {
   padding-bottom: 0;
 }
 
+.upside-down {
+  transform: rotate(180deg);
+}
+
 .snap img {
   margin: auto;
   border-radius: 5px;
