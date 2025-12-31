@@ -114,3 +114,20 @@ footer {
   margin-top: auto;
   padding: 0.5rem 0;
 }
+
+.roll {
+  text-align: center;
+}
+
+.roll img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  align-items: start;
+}
