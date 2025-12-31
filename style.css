@@ -34,8 +34,6 @@ h1 {
   --text-color: #24292e;
   --primary: #57606a;
   --primary-hover: #24292e;
-  --secondary-color: #6e7781;
-  --border-color: #e1e4e8;
   --footer-color: #6a737d;
 }
 
@@ -45,8 +43,6 @@ h1 {
     --text-color: #c9d1d9;
     --primary: #8b949e;
     --primary-hover: #e6edf3;
-    --secondary-color: #768390;
-    --border-color: #30363d;
     --footer-color: #8b949e;
   }
 }
@@ -82,10 +78,6 @@ article {
   height: fit-content;
   width: fit-content;
   padding-bottom: 0;
-}
-
-.upside-down {
-  transform: rotate(180deg);
 }
 
 .snap img {
